@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translations>
+<menu>
+    <item id="educacion">
+        <es>educacion</es>
+        <en>education</en>
+		<eu>hezkuntza</eu>
+    </item>
+	<item id="publicacion">
+        <es>publicacion</es>
+        <en>publication</en>
+		<eu>argitalpena</eu>
+    </item>
+	<item id="entrevistas">
+        <es>entrevistas</es>
+        <en>interviews</en>
+		<eu>elkarrizketak</eu>
+    </item>
+</menu>
+<text id="educontenido">
+	<es>La educación es el proceso de facilitar el refinamiento de habilidades o capacidades propias del individuo, mediante el aprendizaje, la construcción de conocimientos o diversas experiencias</es>
+    <en>Education is the process of facilitating the refinement of the individual's own skills or abilities, through learning, the construction of knowledge or various experiences.</en>
+	<eu>Hezkuntza, norberaren trebetasun edo gaitasunen finketa errazteko prozesua da, ikaskuntzaren, ezagutzaren eraikuntzaren edo hainbat esperientziaren bitartez.</eu>
+</text>
+</translations>
